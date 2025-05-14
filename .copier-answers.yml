@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier
-_commit: 2.6.0
+_commit: 3.0.0
 _src_path: gh:DiamondLightSource/python-copier-template
 author_email: zoheb.shaikh@diamond.ac.uk
 author_name: Zoheb Shaikh
@@ -12,4 +12,5 @@ github_org: ZohebShaikh
 package_name: kata_repo
 pypi: false
 repo_name: kata-repo
+strict_typing: true
 type_checker: pyright
