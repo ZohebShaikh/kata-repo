@@ -12,7 +12,6 @@ how it does it, and why people should use it.
 
 Source          | <https://github.com/ZohebShaikh/kata-repo>
 :---:           | :---:
-Docker          | `docker run ghcr.io/zohebshaikh/kata-repo:latest`
 Releases        | <https://github.com/ZohebShaikh/kata-repo/releases>
 
 This is where you should put some images or code snippets that illustrate
